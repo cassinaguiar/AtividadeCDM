@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AtividadeCDM</string>
+    <string name="login_firebook">LOGIN FIREBOOK</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="clear">Clear</string>
+</resources>
